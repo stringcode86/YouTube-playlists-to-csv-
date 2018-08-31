@@ -1,2 +1,2 @@
 # YouTube playlists to csv
-Extracts names and urls form YouTube playlist html page. Writes them to csv.
+Python script that extracts names and urls form YouTube playlist html page. Writes them to csv.
